@@ -11,5 +11,7 @@
 /node_modules
 /wwwroot/node_modules
 
+# VSCode stuff
+.vscode/
 
 # End of https://www.gitignore.io/api/dotnetcore
