@@ -7,7 +7,7 @@ using RabbitMQ.Client.Events;
 
 namespace rabbit_receiver
 {
-    class Program
+    public static class Program
     {
         private static readonly ILog _logger = Logger.GetLogger();
 
